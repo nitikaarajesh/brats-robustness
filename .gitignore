@@ -180,3 +180,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 data/
+
+# Kaggle credentials — never commit
+access_token
+kaggle.json
