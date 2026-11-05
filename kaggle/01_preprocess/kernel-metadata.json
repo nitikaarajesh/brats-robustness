@@ -1,0 +1,14 @@
+{
+  "id": "nitikaarajesh/brats-01-preprocess",
+  "title": "BraTS 01 Preprocess",
+  "code_file": "01_preprocess.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["nitikaarajesh/brats2023-gli-nnunet"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

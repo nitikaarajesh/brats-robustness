@@ -184,3 +184,6 @@ data/
 # Kaggle credentials — never commit
 access_token
 kaggle.json
+
+# Kaggle kernel outputs (logs/artifacts pulled back locally)
+kaggle/*/output/
