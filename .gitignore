@@ -187,3 +187,6 @@ kaggle.json
 
 # Kaggle kernel outputs (logs/artifacts pulled back locally)
 kaggle/*/output/
+
+# C2 raw kernel outputs (large; not committed)
+results_raw/

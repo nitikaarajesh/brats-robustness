@@ -1,0 +1,14 @@
+{
+  "id": "nitikaarajesh/brats-02-train-eval",
+  "title": "BraTS 02 Train Eval",
+  "code_file": "02_train_eval.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["nitikaarajesh/brats2023-gli-nnunet"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
